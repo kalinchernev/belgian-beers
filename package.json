@@ -5,12 +5,15 @@
   "author": "Kalin Chernev",
   "main": "n/a",
   "scripts": {
-    "build": "gatsby build",
+    "clean": "rm -rf public",
+    "build": "gatsby build --prefix-paths",
+    "deploy": "gh-pages -d public",
     "develop": "gatsby develop",
     "lint": "eslint .",
     "start": "gatsby develop",
     "test:lint": "npm run lint",
-    "test": "npm-run-all -p test:* -cn"
+    "test": "npm-run-all -p test:* -cn",
+    "release": "run-s clean build deploy"
   },
   "keywords": [
     "belgian",
@@ -51,7 +54,9 @@
     "eslint-plugin-prettier": "^2.3.1",
     "eslint-plugin-react": "^7.4.0",
     "gatsby-cli": "^1.1.7",
+    "gh-pages": "^1.0.0",
     "lint-staged": "^4.2.3",
+    "npm-run-all": "^4.1.1",
     "prettier": "^1.7.3"
   }
 }

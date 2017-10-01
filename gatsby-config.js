@@ -2,6 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Belgian Beers`,
   },
+  // Note: it must *not* have a trailing slash.
+  pathPrefix: `/belgian-beers`,
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
