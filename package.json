@@ -1,0 +1,57 @@
+{
+  "private": true,
+  "name": "belgian-beers",
+  "description": "Belgian beers",
+  "author": "Kalin Chernev",
+  "main": "n/a",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "lint": "eslint .",
+    "start": "gatsby develop",
+    "test:lint": "npm run lint",
+    "test": "npm-run-all -p test:* -cn"
+  },
+  "keywords": [
+    "belgian",
+    "beers",
+    "gatsby",
+    "react"
+  ],
+  "homepage": "https://github.com/kalinchernev/belgian-beers#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalinchernev/belgian-beers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kalinchernev/belgian-beers/issues"
+  },
+  "lint-staged": {
+    "*.{js,json}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "dependencies": {
+    "gatsby": "^1.9.45",
+    "gatsby-link": "^1.6.17",
+    "gatsby-plugin-react-helmet": "^1.0.5",
+    "gatsby-plugin-typography": "^1.7.10",
+    "gatsby-source-filesystem": "^1.5.1",
+    "gatsby-transformer-json": "^1.0.7",
+    "gatsby-transformer-remark": "^1.7.15",
+    "typography-theme-github": "^0.15.10"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.8.0",
+    "eslint-config-prettier": "^2.6.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-prettier": "^2.3.1",
+    "eslint-plugin-react": "^7.4.0",
+    "gatsby-cli": "^1.1.7",
+    "lint-staged": "^4.2.3",
+    "prettier": "^1.7.3"
+  }
+}
