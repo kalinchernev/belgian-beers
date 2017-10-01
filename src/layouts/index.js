@@ -15,9 +15,9 @@ const IndexLayout = ({ children, data }) => (
         <h3 style={{ display: `inline` }}>{data.site.siteMetadata.title}</h3>
       </Link>
       <ul style={{ listStyle: `none`, float: `right` }}>
-        <ListLink to="/">Beers</ListLink>
-        <ListLink to="/about/">About</ListLink>
-        <ListLink to="/contact/">Contact</ListLink>
+        <ListLink to="/beers">Beers</ListLink>
+        <ListLink to="/about">About</ListLink>
+        <ListLink to="/contact">Contact</ListLink>
       </ul>
     </header>
     {children()}
