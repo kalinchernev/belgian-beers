@@ -4,6 +4,10 @@
       "component---src-pages-index-js-f2bdb0e940b7614f09e1.js",
       "component---src-pages-index-js-f2bdb0e940b7614f09e1.js.map"
     ],
+    "component---src-pages-beers-index-js": [
+      "component---src-pages-beers-index-js-e525fa72693eaad8e42e.js",
+      "component---src-pages-beers-index-js-e525fa72693eaad8e42e.js.map"
+    ],
     "path---": [
       "path----44ce1d1bcca4a1e4aa61.js",
       "path----44ce1d1bcca4a1e4aa61.js.map"
@@ -13,8 +17,12 @@
       "component---src-pages-contact-js-545d7cec5b483b282656.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-6f39a0e390ebe1b7119c.js",
-      "component---src-layouts-index-js-6f39a0e390ebe1b7119c.js.map"
+      "component---src-layouts-index-js-ef70d0d4d5d90d271f98.js",
+      "component---src-layouts-index-js-ef70d0d4d5d90d271f98.js.map"
+    ],
+    "path---beers": [
+      "path---beers-34916650c4179a015338.js",
+      "path---beers-34916650c4179a015338.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -37,8 +45,8 @@
       "path---contact-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-642db5c5932bf02f7322.js",
-      "app-642db5c5932bf02f7322.js.map"
+      "app-cc6024a833f511ddaa80.js",
+      "app-cc6024a833f511ddaa80.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
