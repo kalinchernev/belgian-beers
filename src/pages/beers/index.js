@@ -17,7 +17,7 @@ const IndexBeers = ({ data }) => (
     {data.allBeersJson.edges.map((node, key) => (
       <Link
         key={key}
-        to={node.node.fields.slug}
+        to={`/${node.node.fields.slug}`}
         style={{
           textDecoration: `none`,
           border: `1px dashed`,
