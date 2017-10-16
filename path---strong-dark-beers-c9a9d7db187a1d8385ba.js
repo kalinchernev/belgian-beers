@@ -1,0 +1,2 @@
+webpackJsonp([0xcb8451e6413b],{"./node_modules/json-loader/index.js!./.cache/json/strong-dark-beers.json":function(e,r){e.exports={data:{beersJson:{Name_en:"Strong dark beers",BeerStyle_en:"Top Fermented Beers",Description_en:"Strong dark beers (7 - 9,5 vol.%) are a group of dark beers with a high alcohol content. Usually these beers have a sweet to slightly burnt flavour (e.g. Gouden Carolus Classic, Kasteelbier Bruin, etc.)"}},pathContext:{slug:"strong-dark-beers"}}}});
+//# sourceMappingURL=path---strong-dark-beers-c9a9d7db187a1d8385ba.js.map

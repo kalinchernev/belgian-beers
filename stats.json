@@ -1,64 +1,160 @@
 {
   "assetsByChunkName": {
+    "path---tripel-beers": [
+      "path---tripel-beers-f58fe3fff93f2dad991e.js",
+      "path---tripel-beers-f58fe3fff93f2dad991e.js.map"
+    ],
+    "path---barley-wine": [
+      "path---barley-wine-5da406571a4279b5b6c8.js",
+      "path---barley-wine-5da406571a4279b5b6c8.js.map"
+    ],
     "component---src-pages-about-index-js": [
       "component---src-pages-about-index-js-bd850575fdd09f94a562.js",
       "component---src-pages-about-index-js-bd850575fdd09f94a562.js.map"
     ],
+    "path---gueze": [
+      "path---gueze-45c919a188c04513cb42.js",
+      "path---gueze-45c919a188c04513cb42.js.map"
+    ],
+    "path---trappist-beer": [
+      "path---trappist-beer-bc99e7f81650887550ee.js",
+      "path---trappist-beer-bc99e7f81650887550ee.js.map"
+    ],
+    "path---flemisch-red": [
+      "path---flemisch-red-ddc71c54f581d816b137.js",
+      "path---flemisch-red-ddc71c54f581d816b137.js.map"
+    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-f2bdb0e940b7614f09e1.js",
-      "component---src-pages-index-js-f2bdb0e940b7614f09e1.js.map"
+      "component---src-pages-index-js-db9ed65752b03b85f5e4.js",
+      "component---src-pages-index-js-db9ed65752b03b85f5e4.js.map"
     ],
     "component---src-pages-beers-index-js": [
-      "component---src-pages-beers-index-js-116c711dba454e195e7c.js",
-      "component---src-pages-beers-index-js-116c711dba454e195e7c.js.map"
+      "component---src-pages-beers-index-js-04503d38763ba62d9020.js",
+      "component---src-pages-beers-index-js-04503d38763ba62d9020.js.map"
     ],
     "path---": [
       "path----44ce1d1bcca4a1e4aa61.js",
       "path----44ce1d1bcca4a1e4aa61.js.map"
     ],
-    "component---src-pages-contact-js": [
-      "component---src-pages-contact-js-545d7cec5b483b282656.js",
-      "component---src-pages-contact-js-545d7cec5b483b282656.js.map"
+    "path---amber-beers": [
+      "path---amber-beers-94a2b4c35d72cb3f65f5.js",
+      "path---amber-beers-94a2b4c35d72cb3f65f5.js.map"
+    ],
+    "path---dark-beers": [
+      "path---dark-beers-5ce13709c236eec9a29b.js",
+      "path---dark-beers-5ce13709c236eec9a29b.js.map"
+    ],
+    "path---abbey-beer": [
+      "path---abbey-beer-47dc7f55a682fba14c52.js",
+      "path---abbey-beer-47dc7f55a682fba14c52.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-ef70d0d4d5d90d271f98.js",
-      "component---src-layouts-index-js-ef70d0d4d5d90d271f98.js.map"
+      "component---src-layouts-index-js-49ade5806548cd18fd69.js",
+      "component---src-layouts-index-js-49ade5806548cd18fd69.js.map"
+    ],
+    "path---bire-brut": [
+      "path---bire-brut-08c5b5be4256e380d5b5.js",
+      "path---bire-brut-08c5b5be4256e380d5b5.js.map"
+    ],
+    "path---dubbel-and-tripel-beer": [
+      "path---dubbel-and-tripel-beer-c14dde1ecf918debc6ca.js",
+      "path---dubbel-and-tripel-beer-c14dde1ecf918debc6ca.js.map"
+    ],
+    "path---faro": [
+      "path---faro-b4fa92c85ffcde6873a7.js",
+      "path---faro-b4fa92c85ffcde6873a7.js.map"
     ],
     "path---beers": [
-      "path---beers-34916650c4179a015338.js",
-      "path---beers-34916650c4179a015338.js.map"
+      "path---beers-3b923bb6e8e0dca2ec32.js",
+      "path---beers-3b923bb6e8e0dca2ec32.js.map"
+    ],
+    "path---stout": [
+      "path---stout-962a89ffd947e2340a3e.js",
+      "path---stout-962a89ffd947e2340a3e.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---pils": [
+      "path---pils-afea0d3ee762f25edf2e.js",
+      "path---pils-afea0d3ee762f25edf2e.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-41378895dbcd2c34ad1f.js",
-      "commons-41378895dbcd2c34ad1f.js.map"
+      "commons-7244c7bf147d6099d794.js",
+      "commons-7244c7bf147d6099d794.js.map"
+    ],
+    "path---kriek-lambic": [
+      "path---kriek-lambic-d43238c2894f6fb7bc6d.js",
+      "path---kriek-lambic-d43238c2894f6fb7bc6d.js.map"
+    ],
+    "path---lambic": [
+      "path---lambic-f13cab251d2ac57e791f.js",
+      "path---lambic-f13cab251d2ac57e791f.js.map"
+    ],
+    "path---versnijbier-6-8-vol": [
+      "path---versnijbier-6-8-vol-00347b981bae7f28992a.js",
+      "path---versnijbier-6-8-vol-00347b981bae7f28992a.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---contact": [
-      "path---contact-a0e39f21c11f6a62c5ab.js",
-      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    "path---white-beers": [
+      "path---white-beers-5f89b88815d646d9d2b5.js",
+      "path---white-beers-5f89b88815d646d9d2b5.js.map"
+    ],
+    "path---blonde-beers": [
+      "path---blonde-beers-7a6a9637e3d55c5fcc05.js",
+      "path---blonde-beers-7a6a9637e3d55c5fcc05.js.map"
+    ],
+    "path---strong-dark-beers": [
+      "path---strong-dark-beers-c9a9d7db187a1d8385ba.js",
+      "path---strong-dark-beers-c9a9d7db187a1d8385ba.js.map"
+    ],
+    "path---vlaams-bruin-flemish-brown-45-8-vol": [
+      "path---vlaams-bruin-flemish-brown-45-8-vol-2a6a7519c006e901e906.js",
+      "path---vlaams-bruin-flemish-brown-45-8-vol-2a6a7519c006e901e906.js.map"
+    ],
+    "path---scotch": [
+      "path---scotch-8812c7a8777450999fee.js",
+      "path---scotch-8812c7a8777450999fee.js.map"
     ],
     "app": [
-      "app-3f8e4f96c0e893642779.js",
-      "app-3f8e4f96c0e893642779.js.map"
+      "app-e775df9ce6f3fe8dfa43.js",
+      "app-e775df9ce6f3fe8dfa43.js.map"
+    ],
+    "path---oud-bruin-flemish-sour-ale": [
+      "path---oud-bruin-flemish-sour-ale-cfdf072cf141e195ec63.js",
+      "path---oud-bruin-flemish-sour-ale-cfdf072cf141e195ec63.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "component---src-templates-beer-page-js": [
+      "component---src-templates-beer-page-js-eaebec6455226e0a21c3.js",
+      "component---src-templates-beer-page-js-eaebec6455226e0a21c3.js.map"
+    ],
+    "path---spciale-belge": [
+      "path---spciale-belge-b997fb3952c6a6b7bd24.js",
+      "path---spciale-belge-b997fb3952c6a6b7bd24.js.map"
+    ],
+    "path---strong-blonde-beers": [
+      "path---strong-blonde-beers-add92b92799e0bc24a89.js",
+      "path---strong-blonde-beers-add92b92799e0bc24a89.js.map"
+    ],
     "path---about": [
-      "path---about-9b097083ff6612f930a1.js",
-      "path---about-9b097083ff6612f930a1.js.map"
+      "path---about-eabc4b59f47f9bfe8a5f.js",
+      "path---about-eabc4b59f47f9bfe8a5f.js.map"
+    ],
+    "path---fruit-beer": [
+      "path---fruit-beer-53abe5e223d37f260e9d.js",
+      "path---fruit-beer-53abe5e223d37f260e9d.js.map"
     ]
   }
 }

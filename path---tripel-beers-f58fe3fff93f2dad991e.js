@@ -1,0 +1,2 @@
+webpackJsonp([541731614273],{"./node_modules/json-loader/index.js!./.cache/json/tripel-beers.json":function(e,s){e.exports={data:{beersJson:{Name_en:"Tripel beers",BeerStyle_en:"Top Fermented Beers",Description_en:"Tripel (7 - 9 vol.%) is often a relatively strong, golden beer with a malty to slightly sweet taste, sometimes with spices (e.g. Westmalle, Karmeliet, Brugse Tripel, etc.)."}},pathContext:{slug:"tripel-beers"}}}});
+//# sourceMappingURL=path---tripel-beers-f58fe3fff93f2dad991e.js.map

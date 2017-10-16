@@ -1,0 +1,2 @@
+webpackJsonp([0xd0b9c50815ee],{"./node_modules/json-loader/index.js!./.cache/json/scotch.json":function(e,o){e.exports={data:{beersJson:{Name_en:"scotch",BeerStyle_en:"Top Fermented Beers",Description_en:"Scotch is a beer style related to stout, characterized by a touch of caramel."}},pathContext:{slug:"scotch"}}}});
+//# sourceMappingURL=path---scotch-8812c7a8777450999fee.js.map

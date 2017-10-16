@@ -1,0 +1,2 @@
+webpackJsonp([0xe38f4c8be4a6],{"./node_modules/json-loader/index.js!./.cache/json/oud-bruin-flemish-sour-ale.json":function(e,n){e.exports={data:{beersJson:{Name_en:"Oud Bruin' / Flemish Sour Ale’",BeerStyle_en:"Beers of mixed fermentation",Description_en:"Oud Bruin' / Flemish Sour Ale’ is collective noun for Flemish Brown and Flemish red-brown beers."}},pathContext:{slug:"oud-bruin-flemish-sour-ale"}}}});
+//# sourceMappingURL=path---oud-bruin-flemish-sour-ale-cfdf072cf141e195ec63.js.map

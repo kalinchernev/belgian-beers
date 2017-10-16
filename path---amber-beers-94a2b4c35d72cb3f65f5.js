@@ -1,0 +1,2 @@
+webpackJsonp([74157858834020],{"./node_modules/json-loader/index.js!./.cache/json/amber-beers.json":function(e,r){e.exports={data:{beersJson:{Name_en:"Amber beers",BeerStyle_en:"Top Fermented Beers",Description_en:"Amber Beers are brewed with a mixture of pale and amber malts."}},pathContext:{slug:"amber-beers"}}}});
+//# sourceMappingURL=path---amber-beers-94a2b4c35d72cb3f65f5.js.map

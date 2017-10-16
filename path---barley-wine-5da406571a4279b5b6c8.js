@@ -1,0 +1,2 @@
+webpackJsonp([6886087263213],{"./node_modules/json-loader/index.js!./.cache/json/barley-wine.json":function(e,n){e.exports={data:{beersJson:{Name_en:"Barley wine",BeerStyle_en:"Top Fermented Beers",Description_en:"Barley wine (9,5 vol.% and more) is a strong, alcoholic variety of blonde, amber or dark beer."}},pathContext:{slug:"barley-wine"}}}});
+//# sourceMappingURL=path---barley-wine-5da406571a4279b5b6c8.js.map
