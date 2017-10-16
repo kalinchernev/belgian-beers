@@ -54,3 +54,5 @@ query AllBeersQuery {
 ```
 
 More information is available in [this tutorial](https://www.gatsbyjs.org/tutorial/part-four/).
+
+The repository of this [site is open source on github](https://github.com/kalinchernev/belgian-beers).

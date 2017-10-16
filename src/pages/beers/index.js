@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import Link from 'gatsby-link';
 
 const IndexBeers = ({ data }) => (
   <div>
@@ -14,10 +15,27 @@ const IndexBeers = ({ data }) => (
       </a>
     </blockquote>
     {data.allBeersJson.edges.map((node, key) => (
-      <div key={key}>
-        <b>{node.node.Name_en}</b>, {node.node.BeerStyle_en} style
-        <p>{node.node.Description_en}</p>
-      </div>
+      <Link
+        key={key}
+        to={node.node.fields.slug}
+        style={{
+          textDecoration: `none`,
+          border: `1px dashed`,
+          display: `block`,
+          padding: `1rem`,
+          marginBottom: `1rem`,
+        }}
+      >
+        <div>
+          <b>{node.node.Name_en}</b>, {node.node.BeerStyle_en} style
+          <p>
+            {node.node.Description_en
+              .split(' ')
+              .slice(0, 30)
+              .join(' ') + ' ...'}
+          </p>
+        </div>
+      </Link>
     ))}
   </div>
 );
@@ -34,6 +52,9 @@ export const query = graphql`
     allBeersJson {
       edges {
         node {
+          fields {
+            slug
+          }
           Name_en
           BeerStyle_en
           Description_en
